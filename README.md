@@ -15,17 +15,17 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election shoes that
- *There were 369,711 votes cast in the election
- *The candidates were
+ * There were 369,711 votes cast in the election
+ * The candidates were
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
-*The County results were
+* The County results were
   -Jeffereson County has 38,855 votes and 10.5% of votes out of total votes cast.
   -Dener County has 306,055 voters and 82.8% of votes out of total votes cast.
   -Arapahoe County has 24,801 voters and 6.7% of votes out of total votes cast.
   
-*the candidate results were
+* the candidate results were
   -Charles Casper Stockham received 23% of votes and 85,213 number of votes
   -Diana DeGette received 73.8% of votes and 272,892 number of votes
   -Raymon Anthony Doane received 3.1% of votes and 11,606 number of votes
