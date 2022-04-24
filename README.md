@@ -17,21 +17,22 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 The analysis of the election shoes that
  * There were 369,711 votes cast in the election
  * The candidates were
-  - Charles Casper Stockham
-  - Diana DeGette
-  - Raymon Anthony Doane
+    - Charles Casper Stockham
+    - Diana DeGette
+   - Raymon Anthony Doane
 * The County results were
-  -Jeffereson County has 38,855 votes and 10.5% of votes out of total votes cast.
-  -Dener County has 306,055 voters and 82.8% of votes out of total votes cast.
-  -Arapahoe County has 24,801 voters and 6.7% of votes out of total votes cast.
+   -Jeffereson County has 38,855 votes and 10.5% of votes out of total votes cast.
+   -Dener County has 306,055 voters and 82.8% of votes out of total votes cast.
+   -Arapahoe County has 24,801 voters and 6.7% of votes out of total votes cast.
   
-* the candidate results were
-  -Charles Casper Stockham received 23% of votes and 85,213 number of votes
-  -Diana DeGette received 73.8% of votes and 272,892 number of votes
-  -Raymon Anthony Doane received 3.1% of votes and 11,606 number of votes
+* The candidate results were
+    -Charles Casper Stockham received 23% of votes and 85,213 number of votes
+    -Diana DeGette received 73.8% of votes and 272,892 number of votes
+   -Raymon Anthony Doane received 3.1% of votes and 11,606 number of votes
   
--the winner of the election was:
-  - Diana DeGette who received 73.8% of votes and 272,892 number of votes
+* The winner of the election was:
+   Diana DeGette who received 73.8% of votes and 272,892 number of votes
+ ![Election_results.png}(Election_results.PNG)
 
 ## Challange overview
 This code can be utilized for many different purposes in future election analyses. We can alter the code to evaluate at county, city or state level by simply changing out input date and creating new variables for corresponding desired target region. In a national election, changing the County level statistics to State level statitics will allow us to see how votes fall out state by state to understand the popular vote vs. Electoral College. This code can be used in a multitude of ways with slight modifications --this will save a lot of time for large datasets.
