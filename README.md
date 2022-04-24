@@ -32,7 +32,7 @@ The analysis of the election shoes that
   
 * The winner of the election was:
      * Diana DeGette who received 73.8% of votes and 272,892 number of votes
- ![Election_results](Election_results.PNG)
+ ![Election_results](Resources/Election_results.PNG)
 
 ## Challange overview
 This code can be utilized for many different purposes in future election analyses. We can alter the code to evaluate at county, city or state level by simply changing out input date and creating new variables for corresponding desired target region. In a national election, changing the County level statistics to State level statitics will allow us to see how votes fall out state by state to understand the popular vote vs. Electoral College. This code can be used in a multitude of ways with slight modifications --this will save a lot of time for large datasets.
