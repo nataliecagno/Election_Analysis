@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Project Overview
+## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election
 
 1. Calculate total number of votes cast
@@ -9,25 +9,25 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 4. Calculate the precentage of votes each candidate won
 5. Determine winner of election based on popular vote
 
-##Resources
--Data Source: election.results.csv
--software: Python 3.6.7. Visual Studio Code 1.38.1
+## Resources
+*Data Source: election.results.csv
+*software: Python 3.6.7. Visual Studio Code 1.38.1
 
-##Summary
+## Summary
 The analysis of the election shoes that
- -There were "x" votes cast in the election
- -The candidates were
-  - candidate one
-  - candidate two
-  - candidate three
+ *There were "x" votes cast in the election
+ *The candidates were
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 
--the candidate results were
-  -candidate 1 received x% of votes and y number of votes
-  -candidate 2 received x% of votes and y number of votes
-  -candidate 3 received x% of votes and y number of votes
+*the candidate results were
+  -Charles Casper Stockham received 23% of votes and 85,213 number of votes
+  -Diana DeGette received 73.8% of votes and 272,892 number of votes
+  -Raymon Anthony Doane received 3.1% of votes and 11,606 number of votes
   
 -the winner of the election was:
-  - candidate(1,2, or 3) who received x% of votes and y number of votes
+  - Diana DeGette who received 73.8% of votes and 272,892 number of votes
 
 ## Challange overview
 ## challenge summary
